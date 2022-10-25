@@ -1,4 +1,5 @@
-# MariaREDME
+# MariaREADME
+
 
 //Database creation command and output
 MariaDB [(none)]> CREATE DATABASE ndjulu;
