@@ -1,4 +1,5 @@
 # MariaREADME
+Project 1:  Task 1
 
 MariaDB focuses more on enterprice features, it is used for data warehousing.
 
@@ -53,13 +54,14 @@ Query OK, 0 rows affected (0.062 sec)
 MariaDB [ndjulu]> GRANT ALL PRIVILEGES ON ndjulu.* TO 'user_[ndjulu]'@localhost;
 Query OK, 0 rows affected (0.088 sec)
 
+
 TASK 2
-//This code 
+//This code will display This is Ndjulu on the web browser when it points to the local host
 <?php
 
 echo "This is Ndjulu";
 
-//This code 
+//This code grants access to the the local host
 
 <VirtualHost *80>
 
