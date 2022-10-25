@@ -1,5 +1,7 @@
 # MariaREADME
 
+MariaDB focuses more on enterprice features, it is used for data warehousing.
+
 
 //Database creation command and output
 MariaDB [(none)]> CREATE DATABASE ndjulu;
